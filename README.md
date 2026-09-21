@@ -141,4 +141,16 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
