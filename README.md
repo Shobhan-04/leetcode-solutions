@@ -134,6 +134,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -166,6 +167,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -186,4 +188,16 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
