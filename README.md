@@ -163,6 +163,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0242-valid-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
@@ -184,6 +185,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 ## Bit Manipulation
