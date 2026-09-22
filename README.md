@@ -10,10 +10,10 @@ I primarily solve problems using **Java, Python, and SQL**, with an emphasis on 
 
 | Difficulty | Solved |
 | ---------- | -----: |
-| 🟢 Easy    |      — |
-| 🟡 Medium  |      — |
-| 🔴 Hard    |      — |
-| **Total**  |  **—** |
+| 🟢 Easy    |      240 / 966|
+| 🟡 Medium  |      170 / 2117 |
+| 🔴 Hard    |     30 / 976  |
+| **Total**  |  440 |
 
 > Progress is updated as I continue solving problems on LeetCode.
 
