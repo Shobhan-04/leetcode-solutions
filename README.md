@@ -169,6 +169,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0043-multiply-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -248,6 +249,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -266,4 +268,8 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
