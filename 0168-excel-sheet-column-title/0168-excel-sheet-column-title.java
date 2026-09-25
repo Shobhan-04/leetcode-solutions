@@ -1,8 +1,8 @@
 class Solution {
     public String convertToTitle(int columnNumber) {
         /*
-            Time Complexity = O(n), 
-            Space Complexity = O(1)
+            Time Complexity = O(log_26(columnNumber)), 
+            Space Complexity = O(n)
         */
 
         StringBuilder result = new StringBuilder();
