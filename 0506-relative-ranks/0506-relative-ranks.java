@@ -1,28 +1,26 @@
 class Solution {
     public String[] findRelativeRanks(int[] score) {
         /*
-            Time complexity = O(n) + O(n) + O(n) + O(n log(n)) = O(n log(n)), 
-            Space complexity = O(n) -> Auxilliary space for HashMap.
+            Time complexity = O(n) + O(n log(n)) = O(n log(n)) for sorting the priority queue in descending manner,
+            Space complexity = O(n) -> Auxilliary space for PriorityQueue.
         */
         
         int n = score.length; // number of elements in score array.
-        String[] answer = new String[n]; // stores relative ranks.
-        HashMap<Integer, Integer> map = new HashMap<>();
+
+        // TC : O(n log(n))
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> Integer.compare(b[0], a[0])); // Sort the priority queue in descending order.
 
         for(int i = 0; i < n; i++){ // O(n)
-            map.put(score[i], i); // Put the elements of score array and its corresponding index i into the map.
+            pq.offer(new int[]{score[i], i}); // add each element of the score along with the index i.
         }
 
-        Integer[] sortedArray = new Integer[n];
-        for(int i = 0; i < n; i++){ // O(n)
-            sortedArray[i] = score[i]; // store the elements from score direcltly into the Integer array.
-        }
+        String[] answer = new String[n];
 
-        // Sort the array in reverse order :-
-        Arrays.sort(sortedArray, Collections.reverseOrder()); // O(n log(n))
+        int i = 0;
 
-        for(int i = 0; i < n; i++){ // O(n)
-            int originalIndex = map.get(sortedArray[i]); // get the index of a particular element of sortedArray, from the map.
+        while(!pq.isEmpty()){ // Check if PriorityQueue is not empty.
+            int originalIndex = pq.peek()[1]; // add the second most element.
+            pq.poll(); // remove each element in the PriorityQueue.
 
             // The 1st place athlete's rank is "Gold Medal".
             if(i == 0) answer[originalIndex] = "Gold Medal";
@@ -34,7 +32,9 @@ class Solution {
             else if(i == 2) answer[originalIndex] = "Bronze Medal";
 
             // For the 4th place to the nth place athlete, their rank is their placement number (i.e., the xth place athlete's rank is "x").
-            else answer[originalIndex] = String.valueOf(i + 1); // from i = 3 to i = n.
+            else answer[originalIndex] = String.valueOf(i + 1); // from i = 3 to i = n
+
+            i++; // Increment the ith pointer for every iteration.
         }
 
         return answer; // Return an array answer of size n where answer[i] is the rank of the ith athlete.
