@@ -138,6 +138,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0179-largest-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0500-keyboard-row](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
@@ -211,6 +212,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0179-largest-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0506-relative-ranks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -262,6 +264,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -302,6 +305,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0788-rotated-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
