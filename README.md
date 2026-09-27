@@ -147,6 +147,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0539-minimum-time-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0704-binary-search](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -162,6 +163,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0088-merge-sorted-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0165-compare-version-numbers](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +226,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0435-non-overlapping-intervals](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0506-relative-ranks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Sliding Window
