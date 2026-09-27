@@ -7,9 +7,9 @@ class Solution:
             mid = right + (left - right) // 2
 
             if(arr[mid] <= arr[mid + 1]) :
-                left = (mid + 1) # Reject the left element.
+                left = (mid + 1) # Reject the elements from the left.
             else :
                 result = mid
-                right = (mid - 1)
+                right = (mid - 1) # Reject the elements from the right.
         
         return result
