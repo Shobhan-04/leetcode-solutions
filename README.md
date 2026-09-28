@@ -203,6 +203,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0500-keyboard-row](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0796-rotate-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1544-make-the-string-great](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
@@ -281,6 +282,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1544-make-the-string-great](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -340,4 +342,8 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
