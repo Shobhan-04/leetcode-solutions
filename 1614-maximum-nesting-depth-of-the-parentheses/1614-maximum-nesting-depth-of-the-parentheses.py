@@ -1,10 +1,15 @@
 class Solution:
     def maxDepth(self, s: str) -> int:
+        '''
+            Time complexity = O(n) 
+            Space complexity = O(1)
+        '''
+
         n, open_brackets_count, nesting_depth = len(s), 0, 0
 
         i = 0
 
-        while(i < n) :
+        while(i < n) : # O(n)
             s_ch = s[i]
 
             if(s_ch == '(') :
