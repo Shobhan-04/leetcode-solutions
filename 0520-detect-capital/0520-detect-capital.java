@@ -1,33 +1,27 @@
 class Solution {
-    public boolean allCapitals(String word){
-        int n = word.length();
-
-        for(int i = 0; i < n; i++){ // O(n)
-            char wordCh = word.charAt(i);
-
-            if(wordCh < 'A' || wordCh > 'Z') return false;
-        }
-
-        return true;
-    }
-
-    public boolean allSmall(String word){
-        int n = word.length();
-
-        for(int i = 0; i < n; i++){ // O(n)
-            char wordCh = word.charAt(i);
-
-            if(wordCh < 'a' || wordCh > 'z') return false;
-        }
-
-        return true;
+    public boolean isUpper(char ch){
+        if(ch >= 'A' && ch <= 'Z') return true;
+        return false;
     }
 
     public boolean detectCapitalUse(String word) {
+        /*
+            Time complexity = O(n)
+            Space complexity = O(1)
+        */
+        
+        int capitalLetterCount = 0;
         int n = word.length();
-        if(allCapitals(word) || allSmall(word) || allSmall(word.substring(1))){
-            return true;
+
+        for(int i = 0; i < n; i++){ // O(n)
+            char wordCh = word.charAt(i);
+
+            if(isUpper(wordCh)) capitalLetterCount++;
         }
+
+        if(capitalLetterCount == 0) return true;
+        if(capitalLetterCount == 1 && isUpper(word.charAt(0))) return true;
+        if(capitalLetterCount == n) return true;
 
         return false;
     }
