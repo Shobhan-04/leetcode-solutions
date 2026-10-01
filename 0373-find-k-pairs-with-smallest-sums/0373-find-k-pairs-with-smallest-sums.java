@@ -1,7 +1,7 @@
 class Solution {
     public List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
         /*
-            Time complexity = O(min(n1, k)), 
+            Time complexity = O(K log(K)) O(K log(K)), 
             Space complexity = O(n) -> For minHeap.
         */
 
