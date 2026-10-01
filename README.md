@@ -203,6 +203,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0179-largest-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0500-keyboard-row](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
@@ -325,6 +326,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -360,4 +362,12 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
