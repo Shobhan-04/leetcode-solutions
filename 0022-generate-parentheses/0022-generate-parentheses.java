@@ -1,55 +1,36 @@
 class Solution {
-    public boolean isValidParantheses(StringBuilder s){
-        int n = s.length(), countParantheses = 0;
-
-        for(int i = 0; i < n; i++){
-            char sCh = s.charAt(i);
-
-            if(sCh == '('){
-                countParantheses++;
-            }else{
-                countParantheses--;
-
-                if(countParantheses < 0) return false;
-            }
-        }
-
-        return countParantheses == 0;
-    }
-
-    List<String> result = new ArrayList<>();
-
-    public void solve(StringBuilder curr, int n){
+    public void solve(int n, int open, int close, StringBuilder curr, List<String> result)
+    {
         int m = curr.length();
 
-        if(m == 2 * n){
-            if(isValidParantheses(curr)){
-                result.add(curr.toString());
-            }
-
+        if(m == 2 * n){ // Base condition 
+            result.add(curr.toString()); // Add the open and close parantheses as it is.
             return;
-
         }
 
-        curr.append('('); // Do something.
-        solve(curr, n); // Explore
-        curr.deleteCharAt(curr.length() - 1); // Undo something.
+        if(open < n){ // Add '(' 
+            curr.append('('); // Append '(' into the StringBuilder.
+            solve(n, open + 1, close, curr, result); // Recursive function for open.
+            curr.deleteCharAt(curr.length() - 1); // Backtrack
+        }
 
-        curr.append(')'); // Do something.
-        solve(curr, n); // Explore
-        curr.deleteCharAt(curr.length() - 1); // Undo something.
+        if(close < open){ // Add ')'
+            curr.append(')'); // Append ')' into the StringBuilder.
+            solve(n, open, close + 1, curr, result); // Recursive function for close.
+            curr.deleteCharAt(curr.length() - 1); // Backtrack
+        }
     }
 
     public List<String> generateParenthesis(int n) {
         /*
-            Time complexity = O(2^2n * 2n) = O(2^n), 
-            Space complexity = O(n)
+            Time complexity = O(2 * n) = O(n), 
+            Space complexity = O(n) 
         */
-                
-        StringBuilder curr = new StringBuilder();
+        
+        StringBuilder sb = new StringBuilder();
+        List<String> result = new ArrayList<>();
 
-        solve(curr, n);
-
+        solve(n, 0, 0, sb, result);
         return result;
     }
 }
