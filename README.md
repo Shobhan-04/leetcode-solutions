@@ -197,6 +197,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
@@ -297,6 +298,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1544-make-the-string-great](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -365,6 +367,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Longest Increasing Subsequence
