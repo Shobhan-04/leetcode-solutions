@@ -5,19 +5,15 @@
 #         self.next = next
 class Solution:
     def middleNode(self, head: ListNode | None) -> ListNode | None:
-        length = 0
-        current = head 
+        '''
+            Time complexity = O(1), 
+            Space complexity = O(1)
+        '''
 
-        while(current != None) : 
-            current = current.next 
-            length += 1
-        
-        i = 0
-        current = head 
-        mid = (length // 2)
+        slow, fast = head, head 
 
-        while(i < mid) : # O(n/2) = O(n)
-            current = current.next 
-            i += 1
+        while(fast != None and fast.next != None) :
+            slow = slow.next 
+            fast = fast.next.next
         
-        return(current)
+        return(slow)
