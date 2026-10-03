@@ -412,5 +412,6 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
