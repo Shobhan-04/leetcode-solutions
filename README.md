@@ -400,4 +400,8 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3586-find-covid-recovery-patients](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3586-find-covid-recovery-patients/) | Medium |
 <!---LeetCode Topics End-->
