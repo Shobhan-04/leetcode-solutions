@@ -162,6 +162,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0075-sort-colors](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0165-compare-version-numbers](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
@@ -412,6 +413,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
