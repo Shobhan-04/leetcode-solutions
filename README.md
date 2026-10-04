@@ -417,6 +417,11 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
