@@ -173,6 +173,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0165-compare-version-numbers](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0567-permutation-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Binary Search
@@ -196,6 +197,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0500-keyboard-row](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0567-permutation-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0859-buddy-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
@@ -223,6 +225,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0500-keyboard-row](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
+| [0567-permutation-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -265,6 +268,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
