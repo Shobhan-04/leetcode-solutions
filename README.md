@@ -146,6 +146,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0500-keyboard-row](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -177,6 +178,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0567-permutation-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Binary Search
@@ -186,6 +188,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0069-sqrtx](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -265,6 +268,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0435-non-overlapping-intervals](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0506-relative-ranks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -274,6 +278,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -309,6 +314,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0506-relative-ranks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
