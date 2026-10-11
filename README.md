@@ -164,6 +164,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +279,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1331-rank-transform-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +336,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0678-valid-parenthesis-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
