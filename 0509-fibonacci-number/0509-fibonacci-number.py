@@ -1,8 +1,8 @@
 class Solution:
     def fib(self, n: int) -> int:
         '''
-            Recursive approach for finding the fibonacci number :-
-                Time complexity = O(2^n), 
+            Iterative approach for finding the fibonacci number :-
+                Time complexity = O(n), 
                 Space complexity = O(1)
         '''
 
@@ -12,5 +12,15 @@ class Solution:
         if(n == 1) :
             return 1
         
-        else :
-            return(self.fib(n - 1) + self.fib(n - 2))
+        prev2, prev1 = 0, 1
+        i = 2
+        result = 0
+
+        while(i <= n) :
+            result = (prev2 + prev1)
+            prev2 = prev1
+            prev1 = result
+
+            i += 1
+        
+        return result
