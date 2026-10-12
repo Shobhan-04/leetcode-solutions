@@ -1,32 +1,23 @@
 class Solution {
-    public int binarySearch(int[] nums, int target){
-        int n = nums.length;
-        int left = 0, right = (n - 1);
-
-        while(left <= right){
-            int mid = left + (right - left) / 2;
-            if(nums[mid] == target){
-                return mid;
-            }else if(nums[mid] < target){
-                left = (mid + 1);
-            }else{
-                right = (mid - 1);
-            }
-        }
-
-        return -1;
-    }
     public int findFinalValue(int[] nums, int original) {
         /*
-            Time complexity = O(n log(n)), 
-            Space complexity = O(1)
+            Time complexity = O(n), 
+            Space complexity = O(n) -> Auxilliary space for HashSet.
         */
         
         int n = nums.length;
-        Arrays.sort(nums); // O(n log(n))
-        
-        while(binarySearch(nums, original) != -1) original *= 2;
+        HashSet<Integer> set = new HashSet<>();
 
-        return original;
+        // Store the elements of array into the HashSet :-
+        for(int i = 0; i < n; i++){
+            set.add(nums[i]);
+        }
+
+        // Repeat this process with the new number as long as you keep finding the number.
+        while(set.contains(original)){
+            original *= 2; // If original is found in nums, multiply it by two (i.e., set original = 2 * original).
+        }
+
+        return original; // Return the final value of original.
     }
 }
