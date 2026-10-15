@@ -2,32 +2,29 @@ class Solution:
     def getSumAbsoluteDifferences(self, nums: List[int]) -> List[int]:
         '''
             Time complexity = O(n), 
-            Space complexity = O(1) -> Auxilliary space for resultant list.
+            Space complexity = O(n) -> Auxilliary space for the prefix_sum list.
         '''
 
         n = len(nums)
 
-        total_sum, i = 0, 0
+        result = [0] * n
+        prefix_sum = [0] * n
+        prefix_sum[0] = nums[0]
 
+        i = 1
+
+        # Calculate the prefix sum :-
         while(i < n) :
-            total_sum += nums[i]
+            prefix_sum[i] = prefix_sum[i-1] + nums[i]
             i += 1
         
-        i, left_sum = 0, 0
+        i = 0
 
-        result = [0] * n
-        
         while(i < n) :
-            left_count = i
-            right_count = (n - i - 1)
-            right_sum = (total_sum - left_sum - nums[i])
+            left_sum = prefix_sum[i] - nums[i]
+            right_sum = prefix_sum[n-1] - prefix_sum[i]
 
-            left_diff = (nums[i] * left_count) - left_sum
-            right_diff = right_sum - (nums[i] * right_count)
-
-            result[i] = (left_diff + right_diff)
-
-            left_sum += nums[i]
+            result[i] = (nums[i] * i) - left_sum + right_sum - (nums[i] * (n-i-1))
             i += 1
         
         return result
