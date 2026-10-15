@@ -173,6 +173,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3708-longest-fibonacci-subarray](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3708-longest-fibonacci-subarray/) | Medium |
@@ -231,6 +232,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -535,4 +537,12 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1390-four-divisors](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1390-four-divisors/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
