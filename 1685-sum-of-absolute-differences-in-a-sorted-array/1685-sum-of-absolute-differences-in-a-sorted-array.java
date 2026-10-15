@@ -2,38 +2,24 @@ class Solution {
     public int[] getSumAbsoluteDifferences(int[] nums) {
         /*
             Time complexity = O(n), 
-            Space complexity = O(1) -> Considering that, the resultant array doesn't takes any auxilliary space.
+            Space complexity = O(n) -> Auxilliary space for calculating the storing the nums elements in the prefixSum array.
         */
         
         int n = nums.length;
+
         int[] result = new int[n];
+        int[] prefixSum = new int[n];
+        prefixSum[0] = nums[0];
 
-        int i = 0;
-        int totalSum = 0;
-
-        while(i < n){ // Pre-calculating the prefix sum.
-            int num_i = nums[i];
-            totalSum += num_i;
-            i++;
+        for(int i = 1; i < n; i++){
+            prefixSum[i] = prefixSum[i-1] + nums[i];
         }
 
-        int leftSum = 0;
-        i = 0;
+        for(int i = 0; i < n; i++){
+            int leftSum = prefixSum[i] - nums[i];
+            int rightSum = prefixSum[n-1] - prefixSum[i];
 
-        while(i < n){
-            int num_i = nums[i];
-
-            int leftCount = i;
-            int rightCount = (n - i - 1);
-            int rightSum = (totalSum - leftSum - num_i);
-
-            int leftDiff = (num_i * leftCount) - leftSum;
-            int rightDiff = rightSum - (num_i * rightCount);
-
-            result[i] = (leftDiff + rightDiff);
-            leftSum += num_i;
-
-            i++;
+            result[i] = (nums[i] * i) - leftSum + rightSum - (nums[i] * (n - i - 1));
         }
 
         return result;
