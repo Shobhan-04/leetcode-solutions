@@ -173,6 +173,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3708-longest-fibonacci-subarray](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Two Pointers
@@ -194,6 +195,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0876-middle-of-the-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +208,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +301,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -360,6 +364,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Stack
