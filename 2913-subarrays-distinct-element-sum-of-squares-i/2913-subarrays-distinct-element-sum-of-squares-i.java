@@ -1,15 +1,20 @@
 class Solution {
     public int sumCounts(List<Integer> nums) {
+        /*
+            Time complexity = O(n^2), 
+            Space complexity = O(1)
+        */
+        
         int n = nums.size();
         int distinctElemSum = 0;
 
         int i = 0;
 
-        while(i < n){
+        while(i < n){ // O(n)
             HashSet<Integer> set = new HashSet<>();
             int j = i;
 
-            while(j < n){
+            while(j < n){ // O(n)
                 set.add(nums.get(j));
                 distinctElemSum += (int) Math.pow(set.size(), 2);
                 j++;
