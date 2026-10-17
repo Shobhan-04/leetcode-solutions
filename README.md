@@ -298,6 +298,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 ## Sorting
@@ -392,6 +393,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -412,6 +414,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -530,6 +533,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
