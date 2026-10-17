@@ -430,6 +430,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0509-fibonacci-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0788-rotated-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
+| [1185-day-of-the-week](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1185-day-of-the-week/) | Easy |
 | [1390-four-divisors](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1390-four-divisors/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
