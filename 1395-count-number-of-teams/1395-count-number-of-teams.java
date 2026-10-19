@@ -1,34 +1,29 @@
 class Solution {
     public int numTeams(int[] rating) {
         /*
-            Time complexity = O(n^3), 
+            Time complexity = O(n^2), 
             Space complexity = O(1)
         */
         
         int n = rating.length;
         
-        int i = 0;
         int noOfTeams = 0;
 
-        while(i < (n - 2)){
-            int j = (i + 1);
+        for(int i = 0; i < n; i++){
+            int leftSmaller = 0, leftGreater = 0;
+            int rightGreater = 0, rightSmaller = 0;
 
-            while(j < (n - 1)){
-                int k = (j + 1);
-
-                while(k < n){
-                    if((rating[i] < rating[j] && rating[j] < rating[k]) || (rating[i] > rating[j] && rating[j] > rating[k]))
-                    {
-                        noOfTeams++;
-                    }
-
-                    k++;
-                }
-
-                j++;
+            for(int j = 0; j < i; j++){
+                if(rating[j] < rating[i]) leftSmaller++;
+                else if(rating[j] > rating[i]) leftGreater++;
             }
 
-            i++;
+            for(int k = (i + 1); k < n; k++){
+                if(rating[k] < rating[i]) rightSmaller++;
+                else if(rating[k] > rating[i]) rightGreater++;
+            }
+
+            noOfTeams += (leftSmaller * rightGreater + leftGreater * rightSmaller);
         }
 
         return noOfTeams;
