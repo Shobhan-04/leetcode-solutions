@@ -240,6 +240,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0500-keyboard-row](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0567-permutation-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0859-buddy-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
@@ -279,6 +280,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0796-rotate-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0859-buddy-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -348,6 +350,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
