@@ -170,6 +170,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2145-count-the-hidden-sequences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2145-count-the-hidden-sequences/) | Medium |
@@ -226,6 +227,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1004-max-consecutive-ones-iii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
@@ -328,6 +330,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
