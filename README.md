@@ -164,6 +164,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
@@ -402,6 +403,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
