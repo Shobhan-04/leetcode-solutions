@@ -158,6 +158,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1390-four-divisors](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1390-four-divisors/) | Medium |
+| [1395-count-number-of-teams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1550-three-consecutive-odds](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -496,6 +497,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0509-fibonacci-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
+| [1395-count-number-of-teams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -599,9 +601,11 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1395-count-number-of-teams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1395-count-number-of-teams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
