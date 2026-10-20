@@ -244,6 +244,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0500-keyboard-row](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0648-replace-words](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0648-replace-words/) | Medium |
 | [0859-buddy-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
@@ -282,6 +283,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0459-repeated-substring-pattern](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0500-keyboard-row](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0648-replace-words](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0648-replace-words/) | Medium |
@@ -618,4 +620,12 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0648-replace-words](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0648-replace-words/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 <!---LeetCode Topics End-->
