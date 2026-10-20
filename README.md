@@ -146,6 +146,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0500-keyboard-row](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
+| [0648-replace-words](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0648-replace-words/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0848-shifting-letters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
@@ -244,6 +245,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0242-valid-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0500-keyboard-row](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0567-permutation-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0648-replace-words](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0648-replace-words/) | Medium |
 | [0859-buddy-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -282,6 +284,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0520-detect-capital](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0648-replace-words](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0648-replace-words/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0848-shifting-letters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
@@ -611,4 +614,8 @@ This repository is continuously updated as I solve more problems and strengthen 
 | ------- | ------- |
 | [1395-count-number-of-teams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0648-replace-words](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0648-replace-words/) | Medium |
 <!---LeetCode Topics End-->
