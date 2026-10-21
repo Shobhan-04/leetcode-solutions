@@ -2,7 +2,7 @@ class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
         /*
             Time complexity = O(n log(n)) -> After sorting the array elements. 
-            Space complexity = O(log(n)) -> After sorting the array elements, by excluding the resultant array.
+            Space complexity = O(1) -> After sorting the array elements, by excluding the resultant array.
         */
         
         int n = nums.length;
