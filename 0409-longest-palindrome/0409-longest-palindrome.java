@@ -9,30 +9,23 @@ class Solution {
         int lenLongestPalindrome = 0;
 
         HashMap<Character, Integer> map = new HashMap<>();
+        int oddFreqCount = 0;
 
         // Store the character and their frequency count into the HashMap in <K, V> pairs.
         for(int i = 0; i < n; i++){ // O(n)
             char sCh = s.charAt(i);
             map.put(sCh, map.getOrDefault(sCh, 0) + 1);
+
+            int value = map.get(sCh);
+            if(value % 2 != 0) oddFreqCount++;
+            else oddFreqCount--; 
         }
 
-        boolean oddChar = false;
-
-        // Iterate over the map :-
-        for(Map.Entry<Character, Integer> entry : map.entrySet()){
-            char key = entry.getKey();
-            int val = entry.getValue();
-
-            if(val % 2 == 0){ // check for even count.
-                lenLongestPalindrome += val; // add those val into lenLongestPalindrome.
-            }else{ // check for odd count.
-                lenLongestPalindrome += (val-1);
-                oddChar = true;
-            }
+        if(oddFreqCount >= 1){
+            lenLongestPalindrome = (n - oddFreqCount + 1);
+        }else{
+            lenLongestPalindrome = n;
         }
-
-        // If the oddChar still exists :-
-        if(oddChar == true) lenLongestPalindrome ++;
 
         return lenLongestPalindrome; // return the length of the longest palindrome t
     }
