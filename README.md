@@ -162,6 +162,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1390-four-divisors](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1390-four-divisors/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1395-count-number-of-teams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
@@ -258,6 +259,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1331-rank-transform-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -375,6 +377,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | ------- | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
