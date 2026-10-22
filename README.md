@@ -170,6 +170,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -258,6 +259,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
@@ -374,6 +376,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 ## Bit Manipulation
