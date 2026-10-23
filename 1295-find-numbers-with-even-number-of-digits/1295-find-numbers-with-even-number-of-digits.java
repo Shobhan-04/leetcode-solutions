@@ -12,7 +12,7 @@ class Solution {
 
         for(int i = 0; i < n; i++){ // O(n)
             int num = nums[i];
-            int numOfDigits = (int) Math.floor(Math.log10(num)) + 1;
+            int numOfDigits = (int) Math.ceil(Math.log10(num + 1));
 
             freqMap.put(numOfDigits, freqMap.getOrDefault(numOfDigits, 0) + 1);
 
