@@ -409,6 +409,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0338-counting-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0645-set-mismatch](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
@@ -543,6 +544,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0338-counting-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
