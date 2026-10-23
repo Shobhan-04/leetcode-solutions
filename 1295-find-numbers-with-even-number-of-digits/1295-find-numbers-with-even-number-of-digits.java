@@ -12,12 +12,11 @@ class Solution {
 
         for(int i = 0; i < n; i++){ // O(n)
             int num = nums[i];
-            String numStr = Integer.toString(num);
-            int m = numStr.length();
+            int numOfDigits = (int) Math.floor(Math.log10(num)) + 1;
 
-            freqMap.put(m, freqMap.getOrDefault(m, 0) + 1);
+            freqMap.put(numOfDigits, freqMap.getOrDefault(numOfDigits, 0) + 1);
 
-            if(m % 2 == 0) evenDigitsCount++;
+            if(numOfDigits % 2 == 0) evenDigitsCount++;
         }
 
         return(evenDigitsCount);
