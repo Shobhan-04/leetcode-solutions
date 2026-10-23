@@ -157,6 +157,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0905-sort-array-by-parity](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -259,6 +260,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0648-replace-words](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0648-replace-words/) | Medium |
 | [0859-buddy-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
@@ -313,6 +315,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0944-delete-columns-to-make-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
@@ -382,6 +385,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
