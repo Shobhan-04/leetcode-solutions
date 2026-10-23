@@ -1,20 +1,4 @@
 class Solution {
-    int findNumOfDigits(int num){
-        /*
-           Time complexity = O(digitsCount),
-           Space complexity = O(1) 
-        */
-        
-        int digitsCount = 0;
-
-        while(num != 0){
-            digitsCount++;
-            num /= 10;
-        }
-
-        return(digitsCount);
-    }
-
     public int findNumbers(int[] nums) {
         /*
             Time complexity = O(n), 
@@ -28,11 +12,12 @@ class Solution {
 
         for(int i = 0; i < n; i++){ // O(n)
             int num = nums[i];
-            int countDigits = findNumOfDigits(num); // O(digitsCount)
+            String numStr = Integer.toString(num);
+            int m = numStr.length();
 
-            freqMap.put(countDigits, freqMap.getOrDefault(countDigits, 0) + 1);
+            freqMap.put(m, freqMap.getOrDefault(m, 0) + 1);
 
-            if(countDigits % 2 == 0) evenDigitsCount++;
+            if(m % 2 == 0) evenDigitsCount++;
         }
 
         return(evenDigitsCount);
