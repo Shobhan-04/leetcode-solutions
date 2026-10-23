@@ -1,7 +1,7 @@
 class Solution {
     public int countCharacters(String[] words, String chars) {
         /*
-            Time comlexity = O(n * (m + 26)) = O(n * m) where m is the length of each word, 
+            Time comlexity = O(C + W * (M + 26)) = O(C * WM) where C be the length of chars, W the number of words, and M the maximum word length,
             Space complexity = O(1) for the frequency array of size 26.
         */
         
