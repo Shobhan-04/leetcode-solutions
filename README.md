@@ -266,6 +266,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -324,6 +325,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
