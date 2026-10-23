@@ -8,7 +8,6 @@ class Solution {
         int digitsCount = 0;
 
         while(num != 0){
-            int lastDigit = (num % 10);
             digitsCount++;
             num /= 10;
         }
