@@ -2,28 +2,17 @@ class Solution {
     public int repeatedNTimes(int[] nums) {
         /*
             Time complexity = O(n), 
-            Space complexity = O(n)
+            Space complexity = O(1)
         */
         
-        int numsLength = nums.length;
-        int n = (numsLength / 2);
+        int n = nums.length;
 
-        HashMap<Integer, Integer> freqMap = new HashMap<>();
-
-        for(int i = 0; i < numsLength; i++){ // O(n)
+        for(int i = 2; i < n; i++){ // O(n)
             int num = nums[i];
-            freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
+            
+            if(num == nums[i-1] || num == nums[i-2]) return nums[i];
         }
-
-        int nTimesRepeatedElem = 0;
-
-        for(Map.Entry<Integer, Integer> entry : freqMap.entrySet()){
-            int key = entry.getKey();
-            int value = entry.getValue();
-
-            if(value == n) nTimesRepeatedElem = key;
-        }
-
-        return nTimesRepeatedElem;
+        
+        return nums[0];
     }
 }
