@@ -176,6 +176,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -279,6 +280,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -338,6 +340,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -405,6 +408,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -418,6 +422,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0645-set-mismatch](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Prefix Sum
