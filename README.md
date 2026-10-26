@@ -356,6 +356,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2375-construct-smallest-number-from-di-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sorting
@@ -492,6 +493,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1544-make-the-string-great](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -544,6 +546,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1688-count-of-matches-in-tournament](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
