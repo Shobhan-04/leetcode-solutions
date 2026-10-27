@@ -153,6 +153,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0648-replace-words](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0648-replace-words/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0806-number-of-lines-to-write-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0848-shifting-letters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -321,6 +322,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0657-robot-return-to-origin](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
+| [0806-number-of-lines-to-write-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0848-shifting-letters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0859-buddy-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
