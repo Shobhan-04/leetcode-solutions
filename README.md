@@ -440,6 +440,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0338-counting-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0645-set-mismatch](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
