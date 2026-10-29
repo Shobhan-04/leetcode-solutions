@@ -1,19 +1,22 @@
 class Solution {
     public boolean hasAlternatingBits(int n) {
         /*
-            Time complexity = O(m), where 'm' represents the length of the binaryNStr. 
+            Time complexity = O(log(n)), 
             Space complexity = O(1)
         */        
         
-        String binaryNStr = Integer.toBinaryString(n); 
-
         boolean isAlternatingBits = true;
+        int currentBit = (n % 2 == 0) ? 1 : 0;
 
-        for(int i = 0; i < binaryNStr.length() - 1; i++){ // O(m)
-            char binaryNCh = binaryNStr.charAt(i);
-            char binaryNPlusCh = binaryNStr.charAt(i+1);
+        while(n > 0){ // O(log(n))
+            int lastBit = (n % 2);
 
-            if(binaryNCh == binaryNPlusCh) isAlternatingBits = false;
+            if(currentBit == lastBit){
+                isAlternatingBits = false;
+            }
+
+            currentBit = lastBit;
+            n /= 2;
         }
 
         return isAlternatingBits;
