@@ -434,6 +434,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0338-counting-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
@@ -458,6 +459,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
