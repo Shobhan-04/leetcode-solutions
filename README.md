@@ -439,6 +439,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0318-maximum-product-of-word-lengths](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0338-counting-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0461-hamming-distance](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0645-set-mismatch](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
