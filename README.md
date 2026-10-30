@@ -445,6 +445,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2595-number-of-even-and-odd-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Prefix Sum
