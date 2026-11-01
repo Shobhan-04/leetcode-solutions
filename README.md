@@ -446,6 +446,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0645-set-mismatch](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
+| [1486-xor-operation-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
@@ -540,6 +541,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1390-four-divisors](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1390-four-divisors/) | Medium |
 | [1399-count-largest-group](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
