@@ -1,49 +1,43 @@
 class Solution {
     public List<Integer> luckyNumbers(int[][] matrix) {
         /*
+            Optimized approach :-
+            
             Time complexity = O(m x n),
-            Space complexity = O(m + n)
+            Space complexity = O(1)
         */
         
         int m = matrix.length, n = matrix[0].length;
 
         List<Integer> result = new ArrayList<>();
-        
-        int[] rowMin = new int[m];
-        Arrays.fill(rowMin, Integer.MAX_VALUE);
 
-        int[] colMax = new int[n];
-        Arrays.fill(colMax, Integer.MIN_VALUE);
+        int i = 0, j = 0;
 
-        int row = 0, col = 0;
-
-        while(row < m){ // O(m)
-            while(col < n){ // O(n)
-                rowMin[row] = Math.min(rowMin[row], matrix[row][col]);
-                colMax[col] = Math.max(colMax[col], matrix[row][col]);
-
-                col++;
+        while(i < m){ // O(m)
+            int minCol = 0;
+            
+            while(j < n){ // O(n)
+                if(matrix[i][j] < matrix[i][minCol]) minCol = j;
+               
+                j++;
             }
 
-            row++;
-            col = 0;
-        }
+             int k = 0, value = matrix[i][minCol];
+            boolean isLuckyNumber = true;
 
-        row = 0;
-        col = 0;
+            while(k < m){ // O(m)
+                if(matrix[k][minCol] > value){
+                    isLuckyNumber = false;
+                    break;
+                } 
 
-        while(row < m){ // O(m)
-            while(col < n){ // O(n)
-                int value = matrix[row][col];
-                if(value == rowMin[row] && value == colMax[col]){
-                    result.add(value);
-                }
-
-                col++;
+                k++;
             }
 
-            row++;
-            col = 0;
+            if(isLuckyNumber == true) result.add(value);
+
+            i++;
+            j = 0;
         }
 
         return result;
