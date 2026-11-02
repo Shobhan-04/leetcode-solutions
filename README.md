@@ -301,6 +301,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [1805-number-of-different-integers-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -372,6 +373,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1759-count-number-of-homogenous-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [1805-number-of-different-integers-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
