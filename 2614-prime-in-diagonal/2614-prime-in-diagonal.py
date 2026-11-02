@@ -14,6 +14,11 @@ class Solution:
         return True
 
     def diagonalPrime(self, nums: List[List[int]]) -> int:
+        '''
+            Time complexity = O(m x n), 
+            Space complexity = O(1)
+        '''
+         
         m, n = len(nums), len(nums[0])
 
         i = 0
