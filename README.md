@@ -152,6 +152,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0645-set-mismatch](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0648-replace-words](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0648-replace-words/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0697-degree-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -276,6 +277,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0575-distribute-candies](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0648-replace-words](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0648-replace-words/) | Medium |
+| [0697-degree-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0819-most-common-word](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0859-buddy-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
