@@ -188,6 +188,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1798-maximum-number-of-consecutive-values-you-can-make/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
@@ -414,6 +415,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1798-maximum-number-of-consecutive-values-you-can-make/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -517,6 +519,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1798-maximum-number-of-consecutive-values-you-can-make/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
