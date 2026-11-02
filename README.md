@@ -292,6 +292,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1763-longest-nice-substring](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -361,6 +362,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -421,6 +423,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1004-max-consecutive-ones-iii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Counting
@@ -452,6 +455,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1486-xor-operation-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1763-longest-nice-substring](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -472,6 +476,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0190-reverse-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
