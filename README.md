@@ -179,6 +179,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1550-three-consecutive-odds](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1640-check-array-formation-through-concatenation](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -291,6 +292,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1399-count-largest-group](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1640-check-array-formation-through-concatenation](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
