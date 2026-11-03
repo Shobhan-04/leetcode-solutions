@@ -242,6 +242,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0234-palindrome-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0567-permutation-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -351,6 +352,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0796-rotate-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0848-shifting-letters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0859-buddy-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
@@ -541,6 +543,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0232-implement-queue-using-stacks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -606,6 +609,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0043-multiply-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0415-add-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
