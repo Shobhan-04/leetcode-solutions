@@ -229,6 +229,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [3708-longest-fibonacci-subarray](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Shobhan-04/leetcode-solutions/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -598,6 +599,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Shobhan-04/leetcode-solutions/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
