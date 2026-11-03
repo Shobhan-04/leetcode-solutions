@@ -538,6 +538,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0232-implement-queue-using-stacks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -753,6 +754,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -766,4 +768,8 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1122-relative-sort-array/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
