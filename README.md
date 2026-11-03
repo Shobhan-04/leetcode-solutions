@@ -388,6 +388,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2027-minimum-moves-to-convert-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
@@ -529,6 +530,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1798-maximum-number-of-consecutive-values-you-can-make/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
+| [2027-minimum-moves-to-convert-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
