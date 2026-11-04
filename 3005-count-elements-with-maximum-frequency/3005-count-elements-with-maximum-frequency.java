@@ -1,25 +1,24 @@
 class Solution {
     public int maxFrequencyElements(int[] nums) {
         /*
-            Time complexity = O(n), 
-            Space complexity = O(n) -> Auxilliary space for the HashMap.
+            Time complexity = O(n + 101) = O(n), 
+            Space complexity = O(101) = O(1)
         */
         
         int n = nums.length;
-        HashMap<Integer, Integer> freqMap = new HashMap<>();
+        int[] freqCount = new int[101];
         int maxFreq = -1;
 
         for(int i = 0; i < n; i++){ // O(n)
             int num = nums[i];
-            freqMap.put(num, freqMap.getOrDefault(num,0) + 1);
-            maxFreq = Math.max(maxFreq, freqMap.get(num));
+            freqCount[num]++;
+            maxFreq = Math.max(maxFreq, freqCount[num]);
         }
 
         int maxFreqElemsCount = 0;
 
-        for(Map.Entry<Integer, Integer> entry : freqMap.entrySet()){
-            int key = entry.getKey(), value = entry.getValue();
-            if(value == maxFreq){
+        for(int i = 0; i < 101; i++){ // O(1)
+            if(freqCount[i] == maxFreq){
                 maxFreqElemsCount += maxFreq;
             }
         }
