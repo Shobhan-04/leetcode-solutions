@@ -183,6 +183,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1550-three-consecutive-odds](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1640-check-array-formation-through-concatenation](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -533,6 +534,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1798-maximum-number-of-consecutive-values-you-can-make/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
@@ -676,6 +678,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -797,4 +800,8 @@ This repository is continuously updated as I solve more problems and strengthen 
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+## Flow Network
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 <!---LeetCode Topics End-->
