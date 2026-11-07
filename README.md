@@ -324,6 +324,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2103-rings-and-rods](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
@@ -404,6 +405,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2103-rings-and-rods](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
