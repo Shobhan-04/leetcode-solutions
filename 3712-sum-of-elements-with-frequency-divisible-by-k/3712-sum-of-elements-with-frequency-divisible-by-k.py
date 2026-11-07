@@ -2,7 +2,7 @@ class Solution:
     def sumDivisibleByK(self, nums: List[int], k: int) -> int:
         '''
             Time complexity = O(n), 
-            Space complexity = O(1)
+            Space complexity = O(n) -> Auxilliary space for the freq_dict.
         '''
 
         n = len(nums)
@@ -13,18 +13,16 @@ class Solution:
             num = nums[i]
             max_value = max(max_value, num)
 
-        freq_lst = [0] * (max_value + 1)
+        freq_dict = dict()
 
         for i in range(n) : # O(n)
             num = nums[i]
-            freq_lst[num] += 1
+            freq_dict[num] = freq_dict.get(num, 0) + 1
 
         sum_of_elems_div_K = 0
 
-        for num in range(max_value + 1) :
-            freq = freq_lst[num]
-
-            if((freq > 0) and (freq % k == 0)) :
+        for num, freq in freq_dict.items() :
+            if(freq % k == 0) :
                 sum_of_elems_div_K += (num * freq)
 
         return(sum_of_elems_div_K)
