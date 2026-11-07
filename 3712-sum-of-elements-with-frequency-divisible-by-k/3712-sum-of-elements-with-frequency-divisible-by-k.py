@@ -6,12 +6,6 @@ class Solution:
         '''
 
         n = len(nums)
-        max_value = float('-inf')
-
-        # Find the maximum value in the nums array to set the size for the freqArr as (maxValue + 1).
-        for i in range(n) : # O(n)
-            num = nums[i]
-            max_value = max(max_value, num)
 
         freq_dict = dict()
 
