@@ -201,6 +201,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1975-maximum-matrix-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -318,6 +319,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -396,6 +398,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2027-minimum-moves-to-convert-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
@@ -471,6 +474,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
