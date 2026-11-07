@@ -11,11 +11,11 @@ class Solution {
         
         for(int i = 0; i < m; i++){ // O(m)
             for(int j = 0; j < n; j++){ // O(n)
-                minValue = Math.min(rowSum[i], colSum[j]); // Get the minimum out oof the rowSum and the colSum.
-                result[i][j] = minValue; // Add that minValue as the first element into the result, in order to poupulate with the othe elements.
+                minValue = Math.min(rowSum[i], colSum[j]); // Get the minimum out of the rowSum and the colSum.
+                result[i][j] = minValue; // Store that minValue as the first element into the result, in order to poupulate with the othe elements.
 
                 rowSum[i] -= minValue; // subtract the minValue from the particular row of rowSum.
-                colSum[j] -= minValue; // subtract the minValue from the particular row of colSum.
+                colSum[j] -= minValue; // subtract the minValue from the particular column of colSum.
             }
         }
 
