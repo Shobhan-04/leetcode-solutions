@@ -2,7 +2,7 @@ class Solution {
     public int minOperations(int[] nums) {
         /*
             Time complexity = O(n), 
-            Space complexity = O(n) -> Auxilliary space for the HashMap.
+            Space complexity = O(n) -> Auxilliary space for the Stack.
         */
         
         int n = nums.length;
