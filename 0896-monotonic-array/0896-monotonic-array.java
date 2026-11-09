@@ -8,15 +8,12 @@ class Solution {
         int n = nums.length;
 
         boolean isIncreasing = true, isDecreasing = true;
-        int i = 0, j = 1;
+        
+        for(int i = 0; i < (n - 1); i++){
+            if(nums[i] < nums[i + 1]) isDecreasing = false;
+            if(nums[i] > nums[i + 1]) isIncreasing = false;
 
-        while(j < n){ // O(n)
-            if(nums[i] < nums[j]) isDecreasing = false;
-            if(nums[i] > nums[j]) isIncreasing = false;
             if(!isIncreasing && !isDecreasing) return false;
-
-            i++;
-            j++;
         }
 
         return(isIncreasing || isDecreasing);
