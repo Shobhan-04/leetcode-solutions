@@ -507,6 +507,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0191-number-of-1-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0338-counting-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
+| [0401-binary-watch](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0401-binary-watch/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0461-hamming-distance](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0645-set-mismatch](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -749,6 +750,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0401-binary-watch](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0401-binary-watch/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Database
 | Problem Name | Difficulty |
