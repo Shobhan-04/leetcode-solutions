@@ -164,6 +164,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0848-shifting-letters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
+| [0896-monotonic-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
