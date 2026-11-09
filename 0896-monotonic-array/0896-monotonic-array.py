@@ -7,18 +7,14 @@ class Solution:
 
         n = len(nums)
         is_increasing, is_decreasing = True, True
-        i, j = 0, 1
 
-        while(j < n) :
-            if(nums[i] < nums[j]) :
+        for i in range(0, n-1, 1) :
+            if(nums[i] < nums[i + 1]) :
                 is_decreasing = False
-            elif(nums[i] > nums[j]) :
+            elif(nums[i] > nums[i + 1]) :
                 is_increasing = False
             
             if(not is_increasing and not is_decreasing) :
                 return(False)
-
-            i += 1
-            j += 1
         
         return(is_increasing or is_decreasing)
