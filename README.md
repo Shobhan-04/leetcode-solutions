@@ -231,6 +231,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3392-count-subarrays-of-length-three-with-a-condition/) | Easy |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -345,6 +346,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## String
@@ -578,6 +580,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -603,6 +606,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2375-construct-smallest-number-from-di-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -833,6 +837,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## Flow Network
 | Problem Name | Difficulty |
 | ------- | ------- |
