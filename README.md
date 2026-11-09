@@ -166,6 +166,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0888-fair-candy-swap](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0896-monotonic-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0908-smallest-range-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -622,6 +623,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0509-fibonacci-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0788-rotated-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
+| [0908-smallest-range-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [1185-day-of-the-week](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1185-day-of-the-week/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1390-four-divisors](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1390-four-divisors/) | Medium |
