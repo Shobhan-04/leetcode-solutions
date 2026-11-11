@@ -212,6 +212,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2145-count-the-hidden-sequences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2145-count-the-hidden-sequences/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -340,6 +341,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
@@ -501,6 +503,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -522,6 +525,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
