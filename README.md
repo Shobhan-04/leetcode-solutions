@@ -230,6 +230,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -273,6 +274,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -296,6 +298,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -774,6 +777,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
