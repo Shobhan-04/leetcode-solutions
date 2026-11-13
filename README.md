@@ -184,6 +184,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1390-four-divisors](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1390-four-divisors/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1395-count-number-of-teams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1395-count-number-of-teams/) | Medium |
+| [1436-destination-city](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1436-destination-city/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1550-three-consecutive-odds](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -329,6 +330,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
+| [1436-destination-city](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1436-destination-city/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1640-check-array-formation-through-concatenation](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
@@ -408,6 +410,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
+| [1436-destination-city](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1436-destination-city/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
