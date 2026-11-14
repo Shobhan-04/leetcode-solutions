@@ -228,6 +228,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2670-find-the-distinct-difference-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2848-points-that-intersect-with-cars](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
@@ -363,6 +364,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [2848-points-that-intersect-with-cars](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -563,6 +565,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2145-count-the-hidden-sequences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2145-count-the-hidden-sequences/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2848-points-that-intersect-with-cars](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Divide and Conquer
