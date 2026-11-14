@@ -1,15 +1,15 @@
 class Solution {
     public int numberOfPoints(List<List<Integer>> nums) {
         /*
-            Brute Force approach :-
+            Better approach :-
                 Time complexity = O(n * m), where n is the number of intervals and m is the average length of an interval.
 
-                Space complexity = O(n) -> Auxilliay space for storing the intersecting points in the HashSet.
+                Space complexity = O(1) 
         */
         
         int n = nums.size();
-        HashSet<Integer> set = new HashSet<>();
-        int intersectingPoints = 0;
+        int[] points = new int[101];
+        int intersectingPointsCount = 0;
 
         int start = 0, end = 0;
 
@@ -17,11 +17,18 @@ class Solution {
             start = lst.get(0);
             end = lst.get(1);
 
-            for(int i = start; i <= end; i++){ // O(m)
-                if(!set.contains(i)) set.add(i);
+            for(int num = start; num <= end; num++){ // O(m)
+                points[num]++;
             }
         }
 
-        return(set.size());
+        int m = points.length;
+        for(int i = 0; i < m; i++){
+            int point = points[i];
+
+            if(point != 0) intersectingPointsCount++;
+        }
+
+        return(intersectingPointsCount);
     }
 }
