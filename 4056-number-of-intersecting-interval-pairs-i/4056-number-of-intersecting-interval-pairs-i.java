@@ -1,23 +1,47 @@
 class Solution {
+    public int findUpperBound(int[][] intervals, int left, int right, int targetEnd){
+        int ans = (right + 1);
+
+        while(left <= right){
+            int mid = left + (right - left) / 2;
+
+            if(intervals[mid][0] > targetEnd){
+                ans = mid;
+                right = (mid - 1);
+            }else{
+                left = (mid + 1);
+            }
+        }
+
+        return(ans);
+    }
+
     public int countIntersectingIntervals(int[][] intervals) {
         /*
-            Brute force approach :-
-                Time complexity = O(n^2), 
+            Optimized approach :-
+                -> Step-1 : Sort the intervals based on the starting point.
+                -> Step-2 : Apply binary search to current interval end. 
+
+                Time complexity = O(n log(n)), 
                 Space complexity = O(1)
         */
         
-        int m = intervals.length, n = intervals[0].length;
+        int n = intervals.length;
         int result = 0;
-        
-        for(int i = 0; i < m; i++){ // O(n)
-            for(int j = (i + 1); j < m; j++){ // O(n)
-                int s1 = intervals[i][0], s2 = intervals[j][0];
-                int e1 = intervals[i][1], e2 = intervals[j][1]; 
 
-                if(Math.max(s1, s2) <= Math.min(e1, e2)){
-                    result++;
-                }
-            }
+        if(intervals == null || n == 0) return 0;
+        
+        Arrays.sort(intervals, Comparator.comparingInt(a -> a[0])); // O(n log(n))
+
+        // Binary Search :-
+        for(int i = 0; i < n - 1; i++){
+            int currentEnd = intervals[i][1];
+
+            // Find the index of the first interval starting stricly after the currentEnd.
+            int firstNonIntersectingIndex = findUpperBound(intervals, i+1, n-1, currentEnd);
+
+            // All intervals from (i+1) to (firstNonIntersectingIndex - 1) overlap with intervals[i].
+            result += (firstNonIntersectingIndex - (i + 1));
         }
 
         return result;
