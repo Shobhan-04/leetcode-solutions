@@ -346,6 +346,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -431,6 +432,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -522,6 +524,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
