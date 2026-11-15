@@ -7,7 +7,12 @@ class Solution:
         
         m, n = len(s1), len(s2)
         diff_count = 0
-        freq1, freq2 = [0] * 26, [0] * 26
+        first_index, second_index = 0, 0
+
+        if(m != n) :
+            return False
+        if(s1 == s2) :
+            return True
 
         for i in range(n) :
             s1_ch, s2_ch = s1[i], s2[i]
@@ -15,14 +20,13 @@ class Solution:
             if(s1_ch != s2_ch) :
                 diff_count += 1
             
-            if(diff_count > 2) :
-                return(False)
-            
-            freq1[ord(s1_ch) - ord('a')] += 1
-            freq2[ord(s2_ch) - ord('a')] +=1
+                if(diff_count > 2) :
+                    return(False)
+                elif(diff_count == 1) :
+                    first_index = i
+                else :
+                    second_index = i
         
-        for i in range(26) :
-            if(freq1[i] != freq2[i]) :
-                return False
-        
-        return True
+        comparator = (diff_count == 2 and s1[first_index] == s2[second_index] and s1[second_index] == s2[first_index])
+
+        return comparator
