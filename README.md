@@ -806,6 +806,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0077-combinations](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0401-binary-watch](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0401-binary-watch/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
