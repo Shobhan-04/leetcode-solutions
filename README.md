@@ -141,6 +141,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0179-largest-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -808,6 +809,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0040-combination-sum-ii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0077-combinations](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0401-binary-watch](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0401-binary-watch/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Database
