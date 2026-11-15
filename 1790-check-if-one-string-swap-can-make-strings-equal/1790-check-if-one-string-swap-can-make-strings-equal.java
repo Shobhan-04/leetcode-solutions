@@ -5,35 +5,27 @@ class Solution {
             Space complexity = O(1)
         */
         
-        int n = s1.length();
-        n = s2.length();
+        int m = s1.length(), n = s2.length();
 
-        if(s1 == s2) return true;
+        if(m != n) return false;
+        if(s1.equals(s2)) return true;
 
-        int[] freq1 = new int[26];
-        Arrays.fill(freq1, 0);
-        int[] freq2 = new int[26];
-        Arrays.fill(freq2, 0);
+        int firstIndex = 0, secondIndex = 0;
 
         int diffCount = 0;
 
         for(int i = 0; i < n; i++){ // O(n)
             char s1Ch = s1.charAt(i), s2Ch = s2.charAt(i);
 
-            if(s1Ch != s2Ch) diffCount++;
+            if(s1Ch != s2Ch){
+                diffCount++;
 
-            if(diffCount > 2) return false;
-
-            freq1[s1Ch - 'a']++;
-            freq2[s2Ch - 'a']++;
-        }
-
-        for(int i = 0; i < 26; i++){
-            if(freq1[i] != freq2[i]){
-                return false;
+                if(diffCount > 2) return false;
+                else if(diffCount == 1) firstIndex = i;
+                else secondIndex = i;
             }
         }
 
-        return true;
+        return(diffCount == 2 && (s1.charAt(firstIndex) == s2.charAt(secondIndex)) && (s1.charAt(secondIndex) == s2.charAt(firstIndex)));
     }
 }
