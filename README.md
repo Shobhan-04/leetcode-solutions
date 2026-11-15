@@ -388,6 +388,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0168-excel-sheet-column-title](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -652,6 +653,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0069-sqrtx](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -724,6 +726,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0022-generate-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0338-counting-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -766,6 +769,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0020-valid-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -824,6 +828,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -833,6 +838,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Prime Factorization
 | Problem Name | Difficulty |
