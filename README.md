@@ -658,6 +658,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0168-excel-sheet-column-title](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0258-add-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -692,6 +693,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
@@ -707,6 +709,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0258-add-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
