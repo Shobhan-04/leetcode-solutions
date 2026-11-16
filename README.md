@@ -218,6 +218,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2145-count-the-hidden-sequences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2145-count-the-hidden-sequences/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -681,6 +682,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1759-count-number-of-homogenous-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2544-alternating-digit-sum/) | Easy |
@@ -696,6 +698,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
@@ -720,6 +723,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1688-count-of-matches-in-tournament](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
@@ -908,4 +912,8 @@ This repository is continuously updated as I solve more problems and strengthen 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 <!---LeetCode Topics End-->
