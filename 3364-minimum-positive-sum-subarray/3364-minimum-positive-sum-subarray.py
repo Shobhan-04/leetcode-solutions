@@ -1,30 +1,26 @@
 class Solution:
     def minimumSumSubarray(self, nums: List[int], l: int, r: int) -> int:
         '''
-            Time complexity = O(nr), 
+            Time complexity = O(n^2), 
             Space complexity = O(1)
         '''
 
         n = len(nums)
 
-        low = 0
-        min_subarray_sum = float('inf')
+        i, min_pos_sum_subarray = 0, float('inf')
 
-        while(low <= (n - l)) :
-            curr_subarray_sum = 0
-            high = 1
+        while(i < n) : # O(n)
+            j, current_window_sum = i, 0
 
-            while(high <= r) :
-                if(low + high - 1 >= n) :
-                    break
+            while(j < n) : # O(n)
+                range = (j - i + 1)
+                current_window_sum += nums[j]
 
-                curr_subarray_sum += nums[low + high - 1]
-                
-                if(high >= l and curr_subarray_sum > 0) :
-                    min_subarray_sum = min(min_subarray_sum, curr_subarray_sum)
+                if(range >= l and range <= r and current_window_sum > 0) :
+                    min_pos_sum_subarray = min(min_pos_sum_subarray, current_window_sum)
 
-                high += 1
+                j += 1
 
-            low += 1
-
-        return -1 if(min_subarray_sum == float('inf')) else min_subarray_sum
+            i += 1
+        
+        return -1 if min_pos_sum_subarray == float('inf') else min_pos_sum_subarray
