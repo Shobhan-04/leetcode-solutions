@@ -1,22 +1,33 @@
 class Solution {
     public int minimumSumSubarray(List<Integer> nums, int l, int r) {
+        /*
+            Time complexity = O(n^2), 
+            Space complexity = O(1)
+        */
+        
         int n = nums.size();
-        int minSubArrSum = Integer.MAX_VALUE;
+        
+        int minPosSumSubarray = Integer.MAX_VALUE;
+        int i = 0;
 
-        for(int low = 0; low <= (n - l); low++){
-            int currSubArrSum = 0;
+        while(i < n){ // O(n)
+            int j = i;
+            int currentWindowSum = 0;
 
-            for(int high = 1; high <= r; high++){
-                if(low + high - 1 >= n) break;
+            while(j < n){ // O(n)
+                int range = (j - i + 1);
+                currentWindowSum += nums.get(j);
 
-                currSubArrSum += nums.get(low + high - 1);  
+                if(range >= l && range <= r && currentWindowSum > 0){
+                    minPosSumSubarray = Math.min(minPosSumSubarray, currentWindowSum);
+                }
 
-                if(high >= l && currSubArrSum > 0){
-                    minSubArrSum = Math.min(minSubArrSum, currSubArrSum);
-                } 
+                j++;
             }
+
+            i++;
         }
         
-        return minSubArrSum == Integer.MAX_VALUE ? -1 : minSubArrSum;
+        return(minPosSumSubarray == Integer.MAX_VALUE ? -1 : minPosSumSubarray);
     }
 }
