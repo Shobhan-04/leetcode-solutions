@@ -1,24 +1,12 @@
 class Solution {
     public int addDigits(int num) {
         /*
-            Time complexity = O(log(n)), 
+            Time complexity = O(1), 
             Space complexity = O(1)
         */
         
-        int remainder = 0;
-
-        while(num >= 10){ // Checking until num >= 10 (two digits)
-            int digitsSum = 0;
-
-            while(num != 0){
-                remainder = (num % 10);
-                digitsSum += remainder;
-                num /= 10;
-            }
-
-            num = digitsSum;
-        }
-
-        return num;
+        if(num == 0) return 0;
+        if(num % 9 == 0) return 9;
+        return(num % 9);
     }
 }
