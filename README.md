@@ -453,6 +453,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -722,6 +723,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
