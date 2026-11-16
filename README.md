@@ -453,6 +453,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2103-rings-and-rods](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
@@ -714,6 +715,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1688-count-of-matches-in-tournament](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3379-transformed-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3379-transformed-array/) | Easy |
