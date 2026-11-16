@@ -452,6 +452,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
@@ -573,6 +574,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2145-count-the-hidden-sequences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2145-count-the-hidden-sequences/) | Medium |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
@@ -744,6 +746,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0788-rotated-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
 | [1395-count-number-of-teams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Quicksort
