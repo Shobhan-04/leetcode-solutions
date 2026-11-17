@@ -461,6 +461,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
@@ -520,6 +521,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
