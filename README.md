@@ -399,6 +399,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0415-add-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0482-license-key-formatting](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0482-license-key-formatting/) | Easy |
 | [0500-keyboard-row](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
