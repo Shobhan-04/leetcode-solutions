@@ -178,6 +178,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1200-minimum-absolute-difference](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -520,6 +521,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0567-permutation-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
