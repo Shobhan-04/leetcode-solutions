@@ -227,6 +227,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
@@ -506,6 +507,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
@@ -635,6 +637,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2375-construct-smallest-number-from-di-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
