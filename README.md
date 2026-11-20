@@ -214,6 +214,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -529,6 +530,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
