@@ -1,15 +1,12 @@
 class Solution {
     public int[] getAverages(int[] nums, int k) {
         /*
-            Using prefix sum array :-
+            Using sliding window appraoch  :-
                 Time complexity = O(n), 
                 Space complexity = O(1) -> excluding the resultant array.
         */
         
         int n = nums.length;
-        
-        long[] prefixSumArr = new long[n];
-        prefixSumArr[0] = nums[0];
 
         int[] result = new int[n];
         Arrays.fill(result, -1);
@@ -17,22 +14,30 @@ class Solution {
         // Base case:
         if(k == 0) return nums;
 
+        // Base case:
         int windowSize = (2 * k + 1);
         if(n < windowSize) return result;
 
-        for(int i = 1; i < n; i++){
-            prefixSumArr[i] = (nums[i] + prefixSumArr[i - 1]);
+        int left = 0, right = (2 * k);
+        long windowSum = 0;
+        int i = k;
+
+        for(int idx = left; idx <= right; idx++){
+            windowSum += nums[idx];
         }
 
-        for(int i = k; i <= (n - k - 1); i++){
-            int leftIdx = (i - k), rightIdx = (i + k);
-            long cumulativeSum = prefixSumArr[rightIdx];
+        result[i] = (int) (windowSum / windowSize);
+        i++;
+        right++;
 
-            if(leftIdx > 0){
-                cumulativeSum -= prefixSumArr[leftIdx - 1];
-            }
+        while(right < n){
+            int newElem = nums[left], oldElem = nums[right];
+            windowSum = (windowSum + oldElem - newElem);
 
-            result[i] = (int) (cumulativeSum / windowSize);
+            result[i] = (int) (windowSum / windowSize);
+            i++;
+            left++;
+            right++;
         }
 
         return result;
