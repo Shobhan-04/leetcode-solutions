@@ -9,35 +9,34 @@ class Solution:
 
         result = [-1] * n
 
-        if(k == 0) : # Base case
+        # Base case: 
+        if(k == 0) :
             return nums
-        
+
+        # Base case: 
         window_size = (2 * k + 1)
-        if(n < window_size) : # Base case
+        if(n < window_size) :
             return result
-
-        i = 1
         
-        prefix_sum_arr = [0] * n
-        prefix_sum_arr = nums
+        left, right, window_sum, i = 0, (2 * k), 0, k
+        idx = left
 
-        while(i < n) :
-            num = nums[i]
-            prefix_sum_arr[i] = (num + prefix_sum_arr[i - 1])
+        # Find the sum of the current window :-
+        while(idx <= right) :
+            window_sum += nums[idx] 
+            idx += 1
+        
+        result[i] = (window_sum // window_size)
+        i += 1
+        right += 1
 
+        while(right < n) :
+            new_elem, old_elem = nums[left], nums[right]
+            window_sum = (window_sum + old_elem - new_elem)
+
+            result[i] = (window_sum // window_size)
             i += 1
-        
-        j = k
-
-        while(j <= (n - k - 1)) :
-            left_idx, right_idx = (j - k), (j + k)
-            cumulative_sum = prefix_sum_arr[right_idx]
-
-            if(left_idx > 0) :
-                cumulative_sum -= prefix_sum_arr[left_idx - 1]
-
-            result[j] = int(cumulative_sum // window_size)
-
-            j += 1
-
+            right += 1
+            left += 1
+    
         return result
