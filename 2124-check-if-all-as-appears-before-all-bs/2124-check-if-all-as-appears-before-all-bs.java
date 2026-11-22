@@ -5,9 +5,6 @@ class Solution {
             Space complexity = O(1)
         */
         
-        String bAfterA = "ba";
-
-        if(s.contains(bAfterA)) return false;
-        return true;
+        return(!s.contains("ba"));
     }
 }
