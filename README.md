@@ -390,6 +390,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0020-valid-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0038-count-and-say](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
