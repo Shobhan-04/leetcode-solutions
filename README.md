@@ -236,6 +236,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2670-find-the-distinct-difference-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -474,6 +475,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
