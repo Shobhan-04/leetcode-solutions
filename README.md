@@ -460,6 +460,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2103-rings-and-rods/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
