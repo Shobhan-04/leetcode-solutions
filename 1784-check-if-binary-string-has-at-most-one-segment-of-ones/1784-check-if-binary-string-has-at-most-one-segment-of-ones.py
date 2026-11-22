@@ -5,4 +5,7 @@ class Solution:
             Space complexity = O(1)
         '''
 
-        return("01" not in s)
+        if "01" not in s :
+            return True
+        
+        return False
