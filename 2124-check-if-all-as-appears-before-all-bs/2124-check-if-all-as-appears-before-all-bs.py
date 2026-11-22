@@ -5,9 +5,4 @@ class Solution:
             Space complexity = O(1)
         '''
 
-        b_after_a = "ba"
-
-        if(b_after_a not in s) :
-            return True
-        
-        return False
+        return("ba" not in s)
