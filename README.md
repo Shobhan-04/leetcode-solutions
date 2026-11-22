@@ -447,6 +447,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
