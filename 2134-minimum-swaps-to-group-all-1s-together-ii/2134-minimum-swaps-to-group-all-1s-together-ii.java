@@ -2,13 +2,17 @@ class Solution {
     public int minSwaps(int[] nums) {
         /*
             Time complexity = O(n), 
-            Space complexity = O(1) 
+            Space complexity = O(n) -> Auxilliary space for the temp array.
         */
         
         int n = nums.length;
-        int totalOnesCount = 0;
-        int left = 0;
         int minimumNumberOfSwaps = Integer.MAX_VALUE, numberOfSwaps = 0;
+        int[] temp = new int[2 * n];
+        int totalOnesCount = 0;
+
+        for(int i = 0; i < n; i++){
+            temp[i] = nums[i % n]; // Equating it to the twice size for the nums array, as the circular nums array.
+        }
 
         for(int num : nums){
             if(num == 1) totalOnesCount++;
@@ -16,26 +20,23 @@ class Solution {
 
         if(totalOnesCount == 0 || totalOnesCount == n) return 0;
 
-        int currWindowOnesCount = 0;
+        int currWindowOnesCount = 0, left = 0, right = 0, maxOnesCount = 0;
 
-        for(int right = 0; right < n + totalOnesCount - 1; right++){
-            int rightNum = nums[right % n];
+        while(right < 2 * n){
+            int rightTempNum = temp[right % n];
+            if(rightTempNum == 1) currWindowOnesCount++;
 
-            if(rightNum == 1){
-                currWindowOnesCount++;
-            }
-
-            while((right - left + 1) > totalOnesCount){
-                int leftNum = nums[left % n];
-                if(leftNum == 1) currWindowOnesCount--;
+            if((right - left + 1) > totalOnesCount){
+                int leftTempNum = temp[left % n];
+                currWindowOnesCount -= leftTempNum;
                 left++;
             }
 
-            if((right - left + 1) == totalOnesCount){
-                numberOfSwaps = (totalOnesCount - currWindowOnesCount);
-                minimumNumberOfSwaps = Math.min(minimumNumberOfSwaps, numberOfSwaps);
-            }
+            maxOnesCount = Math.max(maxOnesCount, currWindowOnesCount);
+            right++;
         }
+
+        minimumNumberOfSwaps = (totalOnesCount - maxOnesCount);
 
         return minimumNumberOfSwaps;
     }
