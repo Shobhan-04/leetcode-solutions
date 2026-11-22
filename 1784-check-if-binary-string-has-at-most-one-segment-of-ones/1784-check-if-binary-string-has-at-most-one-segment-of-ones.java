@@ -5,7 +5,6 @@ class Solution {
             Space complexity = O(1)
         */
         
-        if(s.contains("01")) return false;
-        return true;
+        return(!s.contains("01"));
     }
 }
