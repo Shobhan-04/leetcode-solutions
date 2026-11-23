@@ -1,36 +1,21 @@
 class Solution {
-    public boolean countTrailingZeros(int num){
-        String n = Integer.toBinaryString(num);
-
-        if(n.charAt(n.length() - 1) == '0') return true;
-
-        return false;
-    }
-
     public boolean hasTrailingZeros(int[] nums) {
         /*
-            Time complexity = O(n^2), 
+            Time complexity = O(n), 
             Space complexity = O(1)
         */
         
         int n = nums.length;
+        int evenCount = 0;
 
-        int i = 0;
+        for(int i = 0; i < n; i++){ // O(n)
+            int num = nums[i];
 
-        while(i < n){
-            int j = i;
+            // A number has a trailing zero iff it is an even number :-
+            if(num % 2 == 0) evenCount++;
 
-            while(j < n){
-                int num = (nums[i] | nums[j]); // Finding the bitwise OR of the elements.
-
-                if(i != j && countTrailingZeros(num)){
-                    return true;
-                }
-
-                j++;
-            }
-
-            i++;
+            // If evenCount == 2 then, 
+            if(evenCount == 2) return true;
         }
 
         return false;
