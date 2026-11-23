@@ -243,6 +243,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -587,6 +588,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2206-divide-array-into-equal-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
