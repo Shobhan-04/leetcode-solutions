@@ -11,7 +11,7 @@ class Solution:
         for i in range(n) :
             num = nums[i]
 
-            if(num % 2 == 0) :
+            if((num & 1) == 0) : # To check whether the number is even.
                 even_count += 1
             
             if(even_count == 2) :
