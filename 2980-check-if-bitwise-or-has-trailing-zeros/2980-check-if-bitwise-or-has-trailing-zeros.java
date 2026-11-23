@@ -12,7 +12,7 @@ class Solution {
             int num = nums[i];
 
             // A number has a trailing zero iff it is an even number :-
-            if(num % 2 == 0) evenCount++;
+            if((num & 1) == 0) evenCount++;
 
             // If evenCount == 2 then, 
             if(evenCount == 2) return true;
