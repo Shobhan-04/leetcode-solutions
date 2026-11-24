@@ -250,6 +250,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [3379-transformed-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3379-transformed-array/) | Easy |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3392-count-subarrays-of-length-three-with-a-condition/) | Easy |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -547,6 +548,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -720,6 +722,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2614-prime-in-diagonal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
@@ -734,6 +737,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2614-prime-in-diagonal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -847,6 +851,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
