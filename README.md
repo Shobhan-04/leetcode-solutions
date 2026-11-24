@@ -453,6 +453,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1796-second-largest-digit-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
