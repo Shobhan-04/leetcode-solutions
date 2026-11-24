@@ -142,6 +142,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0179-largest-number](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0283-move-zeroes](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -280,6 +281,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [0165-compare-version-numbers](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Shobhan-04/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
