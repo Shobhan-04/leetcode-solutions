@@ -2,20 +2,28 @@ class Solution:
     def minimumDeletions(self, s: str) -> int:
         '''
             Time complexity = O(n), 
-            Space complexity = O(n)
+            Space complexity = O(n) -> Auxilliary space for the left_a and right_b lists  respectively.
         '''
 
         n = len(s)
-        stack = [] 
-        min_deletions_count = 0
+        left_b, right_a, count_a, count_b = [0] * n, [0] * n, 0, 0
+        min_deletions_count = float('inf')
 
         for i in range(n) :
-            s_ch = s[i]
+            left_b[i] = count_b
 
-            if(not(len(stack) == 0) and s_ch == 'a' and stack[-1] == 'b') :
-                stack.pop()
-                min_deletions_count += 1
-            else :
-                stack.append(s_ch)
+            s_ch = s[i]
+            if(s_ch == 'b') :
+                count_b += 1
+        
+        for i in range(n-1, -1, -1) :
+            right_a[i] = count_a
+
+            s_ch = s[i]
+            if(s_ch == 'a') :
+                count_a += 1
+
+        for i in range(n) :
+            min_deletions_count = min(min_deletions_count, (left_b[i] + right_a[i]))
         
         return min_deletions_count
