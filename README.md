@@ -450,6 +450,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1544-make-the-string-great](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
@@ -686,6 +687,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2434-using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -792,6 +794,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1395-count-number-of-teams](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
