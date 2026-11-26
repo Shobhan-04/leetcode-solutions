@@ -1,7 +1,13 @@
 class Solution:
     def maxScore(self, s: str) -> int:
         '''
-            Better approach :-
+            Optimal approach :-
+                score = (leftZeros + rightOnes) -> Given
+                    totalOnes = (leftOnes + rightOnes)
+                    => rightOnes = (totalOnes - leftOnes)
+                => score = (leftZeros + (totalOnes - leftOnes))
+                => score = (leftZeros - leftOnes) + totalOnes
+                    So, maximize (leftZeros - leftOnes).
 
                 Time complexity = O(n + n) = O(2 * n) = O(n), 
                 Space complexity = O(1)
@@ -15,7 +21,7 @@ class Solution:
         for i in range(n) :
             if(s[i] == '1') :
                 total_ones += 1
-            
+        
         i = 0
 
         while(i <= (n - 2)) :
@@ -23,11 +29,9 @@ class Solution:
                 left_ones += 1
             else :
                 left_zeros += 1
+            
+            i += 1
 
-            right_ones = (total_ones - left_ones) 
+            result = max(result, (left_zeros - left_ones))
 
-            i += 1 
-        
-            result = max(result, (right_ones + left_zeros))
-
-        return(result)
+        return(result + total_ones)
