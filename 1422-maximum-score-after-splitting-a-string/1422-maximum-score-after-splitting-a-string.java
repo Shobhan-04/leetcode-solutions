@@ -1,27 +1,27 @@
 class Solution {
     public int maxScore(String s) {
         /*
-            Time complexity = O(n^2), 
-            Space complexity = O(1)
+            Better approach :-
+
+                Time complexity = O(n + n) = O(2 * n) = O(n), 
+                Space complexity = O(1)
         */
         
         int n = s.length();
         int maxScore = Integer.MIN_VALUE;
+        int totalOnes = 0, leftOnes = 0, leftZeros = 0;
 
-        for(int i = 0; i <= (n - 2); i++){
-            int zeroCount = 0;
+        for(int i = 0; i < n; i++){ // O(n)
+            if(s.charAt(i) == '1') totalOnes++;
+        }
 
-            for(int j = 0; j <= i; j++){ // j -> 0 to i.
-                if(s.charAt(j) == '0') zeroCount++;
-            }
+        for(int i = 0; i <= (n - 2); i++){ // O(n)
+            if(s.charAt(i) == '1') leftOnes++;
+            else leftZeros++;
 
-            int oneCount = 0;
+            int rightOnes = (totalOnes - leftOnes);
 
-            for(int k = (i + 1); k < n; k++){ // k -> (i + 1) to (n - 1).
-                if(s.charAt(k) == '1') oneCount++;
-            }
-            
-            maxScore = Math.max(maxScore, (oneCount + zeroCount));
+            maxScore = Math.max(maxScore, (leftZeros + rightOnes));
         }
 
         return(maxScore);
