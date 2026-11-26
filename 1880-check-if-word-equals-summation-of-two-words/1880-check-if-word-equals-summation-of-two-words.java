@@ -1,28 +1,29 @@
 class Solution {
-    public int convertToInt(String word){
-        char[] wordArr = word.toCharArray();
-        int n = wordArr.length;
-        StringBuilder sb = new StringBuilder();
-        
+    public int getNumericalValue(String word){
+        int n = word.length();
+        int num = 0;
+
         for(int i = 0; i < n; i++){
-            char wordCh = wordArr[i];
-            sb.append(wordCh - 'a');
+            char wordCh = word.charAt(i);
+            int digit = (wordCh - 'a');
+            num = (num * 10) + digit;
         }
 
-        return(Integer.parseInt(sb.toString()));
+        return num;
     }
 
     public boolean isSumEqual(String firstWord, String secondWord, String targetWord) {
-        /*
+       /*
             Let M, N, and T be the lengths of firstWord, secondWord, and targetWord.
-                Time complexity = O(m+n+t), 
-                Space complexity = O(m+n+t)
+            Time complexity = O(M + N + T)
+            Space complexity = O(1)
         */
 
-        int firstInt = convertToInt(firstWord);
-        int secondInt = convertToInt(secondWord);
-        int targetInt = convertToInt(targetWord);
 
+        int firstInt = getNumericalValue(firstWord);
+        int secondInt = getNumericalValue(secondWord);
+        int targetInt = getNumericalValue(targetWord);
+  
         return((firstInt + secondInt) == targetInt);
     }
 }
