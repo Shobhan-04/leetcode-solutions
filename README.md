@@ -465,6 +465,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1816-truncate-sentence](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
