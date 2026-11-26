@@ -1,38 +1,33 @@
 class Solution:
     def maxScore(self, s: str) -> int:
         '''
-            Brute Force approach :-
+            Better approach :-
 
-                Time complexity = O(n^2), 
+                Time complexity = O(n + n) = O(2 * n) = O(n), 
                 Space complexity = O(1)
         '''
 
         n = len(s)
         result = float('-inf')
 
+        total_ones, left_ones, left_zeros = 0, 0, 0
+
+        for i in range(n) :
+            if(s[i] == '1') :
+                total_ones += 1
+            
         i = 0
 
         while(i <= (n - 2)) :
-            zero_count = 0
-            j = 0
+            if(s[i] == '1') :
+                left_ones += 1
+            else :
+                left_zeros += 1
 
-            while(j <= i) :
-                if(s[j] == '0') :
-                    zero_count += 1
-
-                j += 1
-            
-            k = (i + 1)
-            one_count = 0
-
-            while(k < n) :
-                if(s[k] == '1') :
-                    one_count += 1
-
-                k += 1
+            right_ones = (total_ones - left_ones) 
 
             i += 1 
         
-            result = max(result, (one_count + zero_count))
+            result = max(result, (right_ones + left_zeros))
 
         return(result)
