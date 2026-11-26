@@ -208,6 +208,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1798-maximum-number-of-consecutive-values-you-can-make/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1816-truncate-sentence](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
@@ -461,6 +462,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [1796-second-largest-digit-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1816-truncate-sentence](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shobhan-04/leetcode-solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
