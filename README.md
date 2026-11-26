@@ -728,6 +728,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2614-prime-in-diagonal](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [3360-stone-removal-game](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -770,6 +771,7 @@ This repository is continuously updated as I solve more problems and strengthen 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shobhan-04/leetcode-solutions/tree/main/2974-minimum-number-game/) | Easy |
+| [3360-stone-removal-game](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3379-transformed-array](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3379-transformed-array/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Shobhan-04/leetcode-solutions/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## String Matching
