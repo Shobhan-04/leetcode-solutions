@@ -1,7 +1,12 @@
 class Solution {
     public int maxScore(String s) {
         /*
-            Better approach :-
+            Optimal approach :-
+                score = (leftZeros + rightOnes) -> Given
+                    totalOnes = (leftOnes + rightOnes)
+                    => rightOnes = (totalOnes - leftOnes)
+                => score = (leftZeros + (totalOnes - leftOnes))
+                => score = (leftZeros - leftOnes) + totalOnes
 
                 Time complexity = O(n + n) = O(2 * n) = O(n), 
                 Space complexity = O(1)
@@ -19,11 +24,9 @@ class Solution {
             if(s.charAt(i) == '1') leftOnes++;
             else leftZeros++;
 
-            int rightOnes = (totalOnes - leftOnes);
-
-            maxScore = Math.max(maxScore, (leftZeros + rightOnes));
+            maxScore = Math.max(maxScore, (leftZeros - leftOnes));
         }
 
-        return(maxScore);
+        return(maxScore + totalOnes);
     }
 }
